@@ -19,19 +19,17 @@ Ingeniera en Desarrollo de Software con experiencia en aplicaciones web.
 Tengo formación en frontend pero también manejo el backend y la integración de APIs REST. 
 Me gusta participar en todo el ciclo de desarrollo: desde entender lo que necesita el cliente, hasta la implementación y la documentación.
 
----
-
 ## ★ Stack
 
-### ☆Frontend
+### ☆ Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,js,ts,bootstrap,figma)](https://skillicons.dev)
 
-### ☆Backend & bases de datos
+### ☆ Backend & bases de datos
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,postgresql,mysql,prisma)](https://skillicons.dev)
 
-### ☆Herramientas
+### ☆ Herramientas
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
