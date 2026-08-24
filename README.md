@@ -4,10 +4,8 @@
     Me alegra que estés aquí explorando mi código
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A4C93&height=120&section=header" alt="header"/> 
-
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=6A4C93&width=435&lines=Hola%2C+soy+Emilia+Escobar;Ingeniera+en+Desarrollo+de+Software;Frontend+%26+Backend" alt="Desarrolladora de Software"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFF&width=435&lines=Hola%2C+soy+Emilia+Escobar;Ingeniera+en+Desarrollo+de+Software;Frontend+%26+Backend" alt="Desarrolladora de Software"/>
 </a>
 
 <div>
@@ -17,11 +15,10 @@
 ## ✦ sobre mí
 
 Ingeniera en Desarrollo de Software con alma creativa y ojo para el detalle.
-Me muevo con comodidad en el frontend, pero también sé ensuciarme las manos con backend cuando la arquitectura lo pide.
 
-- 🎯 Enfocada en construir interfaces funcionales y visualmente atractivas
-- 🌱 Explorando arquitecturas fullstack con PostgreSQL y Bootstrap
-- 📍 El Salvador
+- Enfocada en construir interfaces funcionales y visualmente atractivas
+- Explorando arquitecturas fullstack con PostgreSQL y Bootstrap
+- El Salvador
 
 ---
 
@@ -53,7 +50,7 @@ Me muevo con comodidad en el frontend, pero también sé ensuciarme las manos co
     <a href="https://www.linkedin.com/in/emilia-escobar130613/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:tuemail@gmail.com">
+    <a href="mailto:emiliaescobar105@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
