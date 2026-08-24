@@ -12,7 +12,7 @@
     <img src="https://i.pinimg.com/originals/23/a9/e1/23a9e16f37d05dcd1d3be915065854b3.gif" alt="Coding GIF" width="800"/>
 </div>
 
-##★ Sobre mí
+## ★ Sobre mí
 
 Ingeniera en Desarrollo de Software con experiencia en aplicaciones web. 
 
@@ -21,7 +21,7 @@ Me gusta participar en todo el ciclo de desarrollo: desde entender lo que necesi
 
 ---
 
-##★ Stack
+## ★ Stack
 
 ### ☆Frontend
 
@@ -36,7 +36,7 @@ Me gusta participar en todo el ciclo de desarrollo: desde entender lo que necesi
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 
-##★ Contacto
+## ★ Contacto
 
 
 <div>
