@@ -5,11 +5,11 @@
 -->
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello!+It's+Emilia+Escobar;Ingeniera+en+Desarrollo+de+Software" alt="Emilia Escobar"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello!+It's+Emilia+Escobar;Software+Engineer" alt="Emilia Escobar"/>
 </a>
 
 <div align="center">
-    <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZsbG9pYTB6Z3gxejJhZzRteWVjOWJuc3Fkem5ob3I0Y3d4MTVsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpHVY/giphy.gif](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)" alt="Coding GIF" width="400"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Coding GIF" width="400"/>
 </div>
 
 ---
@@ -23,7 +23,7 @@ pasar por el diseño en Figma, hasta la implementación y la documentación.
 
 ---
 
-## 🧰 stack
+## stack
 
 ### frontend
 [![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,js,ts,bootstrap,figma)](https://skillicons.dev)
@@ -36,22 +36,13 @@ pasar por el diseño en Figma, hasta la implementación y la documentación.
 
 ---
 
-## 📊 estadísticas
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emilia1306&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=6A4C93&icon_color=6A4C93"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilia1306&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=6A4C93"/>
-</div>
-
----
-
 ## 📬 contacto
 
 <div>
     <a href="www.linkedin.com/in/emilia-escobar130613">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-2E4B6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:emiliaescobar105@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <img src="https://img.shields.io/badge/Email-B490D1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
