@@ -5,11 +5,11 @@
 -->
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Emilia+Escobar;Ingeniera+en+Desarrollo+de+Software" alt="Emilia Escobar"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFFFFF&width=435&lines=Hello!+It's+Emilia+Escobar;Ingeniera+en+Desarrollo+de+Software" alt="Emilia Escobar"/>
 </a>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZsbG9pYTB6Z3gxejJhZzRteWVjOWJuc3Fkem5ob3I0Y3d4MTVsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpHVY/giphy.gif" alt="Coding GIF" width="400"/>
+    <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZsbG9pYTB6Z3gxejJhZzRteWVjOWJuc3Fkem5ob3I0Y3d4MTVsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpHVY/giphy.gif](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)" alt="Coding GIF" width="400"/>
 </div>
 
 ---
