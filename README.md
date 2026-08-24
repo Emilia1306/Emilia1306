@@ -9,7 +9,7 @@
 </a>
 
 <div align="center">
-    <img src="[https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif](https://i.pinimg.com/originals/23/a9/e1/23a9e16f37d05dcd1d3be915065854b3.gif)" alt="Coding GIF" width="400"/>
+    <img src="https://i.pinimg.com/originals/23/a9/e1/23a9e16f37d05dcd1d3be915065854b3.gif" alt="Coding GIF" width="400"/>
 </div>
 
 ---
